@@ -1,0 +1,30 @@
+.logo-slide {
+  height: 400px;
+}
+.btn-orange {
+  background-color: #FFB45E;
+  border-color: #F89829;
+  color: #FFFFFF;
+}
+.btn-blue {
+  background-color: #3091C2;
+  border-color: #007CBA;
+  color: #FFFFFF;
+}
+.one-column {
+  margin-left: 50px;
+}
+.title {
+  margin: 150px 0px 50px;
+}
+.heading {
+  margin-top: 50px;
+}
+input {
+  width: 275px;
+}
+textarea {
+  resize: none;
+  height: 200px;
+  width: 555px; 
+}
